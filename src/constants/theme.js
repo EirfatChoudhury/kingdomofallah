@@ -1,0 +1,26 @@
+export const theme = {
+  light: {
+    text: '#1f2d27',
+    background: '#f8f6f0',
+    cardBackground: '#f0ece1',
+    primary: '#1b6b50',
+    secondary: '#c59b27',
+    border: '#ded8c8',
+    tint: '#1b6b50',
+    icon: '#6b7a72',
+    tabIconDefault: '#8d9c94',
+    tabIconSelected: '#1b6b50',
+  },
+  dark: {
+    text: '#f2eee5',
+    background: '#0d1714',
+    cardBackground: '#14231e',
+    primary: '#3eb885',
+    secondary: '#d4af37',
+    border: '#213830',
+    tint: '#3eb885',
+    icon: '#8ea89d',
+    tabIconDefault: '#5f786e',
+    tabIconSelected: '#d4af37',
+  },
+};
